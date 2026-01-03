@@ -1,0 +1,3 @@
+# Save it as .env
+BASE_URL=https://discounted-stocks.vercel.app/
+TELEGRAM_TOKEN=8378501812:AAEqbjENHaqMR4oMRJfSoiOqA4b35I8Hvag
